@@ -1,3 +1,4 @@
+// WHAT WE DO HOVER EFFECT
 $(document).ready(function (){
    $(".design").click(function(){
      $(this).css("display", "none");
@@ -25,6 +26,21 @@ $(document).ready(function (){
     $(this).css("display", "none");
     $(".product").css("display", "initial");
   });
+
+
+  //HOVER EFFECT FOR PORTFOLIO
+  $("#work1").mouseenter(function () {
+    $("#work1-layout").css(
+      "clipPath",
+      "polygon(0 0, 100% 0, 100% 100%, 0% 100%)"
+    );
+  });
+  $("#work1").mouseleave(function () {
+    $("#work1-layout").css(
+      "clipPath",
+      "polygon(0 0, 0 0, 100% 100%, 38% 38%)"
+    );
+  });  
 
 
 });
