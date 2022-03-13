@@ -5,6 +5,11 @@
 .first {
     background-position: center;
     background-image: url(../images/backgrounds/h_img.jpg);
+    background-size: cover;
+    height: 55vw;
+    width: 100vw;
+    padding-top: 20vh;
+
 }
 .third {
     background-position: center;
