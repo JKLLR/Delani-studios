@@ -57,6 +57,13 @@
     background-image: url(/images/backgrounds/c_image.jpg);
     background-position: center;
     background-size: cover;
+    width: 100vw;
+    height: 55vw;
+
       
   }
+  #email, #name, #message{
+    background: transparent;
+    color: white;
+}
   
