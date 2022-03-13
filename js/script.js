@@ -38,7 +38,7 @@ $(document).ready(function (){
   $("#work1").mouseleave(function () {
     $("#work1-layout").css(
       "clipPath",
-      "polygon(0 0, 0 0, 100% 100%, 38% 38%)"
+      "polygon(0 0, 0 0, 100% 100%, 40% 40%)"
     );
   });
 
@@ -51,7 +51,7 @@ $(document).ready(function (){
   $("#work2").mouseleave(function () {
     $("#work2-layout").css(
       "clipPath",
-      "polygon(0 0, 0 0, 100% 100%, 38% 38%)"
+      "polygon(0 0, 0 0, 100% 100%, 40% 40%)"
     );
   });
   
@@ -64,7 +64,7 @@ $(document).ready(function (){
   $("#work3").mouseleave(function () {
     $("#work3-layout").css(
       "clipPath",
-      "polygon(0 0, 0 0, 100% 100%, 38% 38%)"
+      "polygon(0 0, 0 0, 100% 100%, 40% 40%)"
     );
   });
   
@@ -77,7 +77,7 @@ $(document).ready(function (){
   $("#work4").mouseleave(function () {
     $("#work4-layout").css(
       "clipPath",
-      "polygon(0 0, 0 0, 100% 100%, 38% 38%)"
+      "polygon(0 0, 0 0, 100% 100%, 40% 40%)"
     );
   }); 
   
@@ -90,7 +90,7 @@ $(document).ready(function (){
   $("#work5").mouseleave(function () {
     $("#work5-layout").css(
       "clipPath",
-      "polygon(0 0, 0 0, 100% 100%, 38% 38%)"
+      "polygon(0 0, 0 0, 100% 100%, 40% 40%)"
     );
   });
   
@@ -103,7 +103,7 @@ $(document).ready(function (){
   $("#work6").mouseleave(function () {
     $("#work6-layout").css(
       "clipPath",
-      "polygon(0 0, 0 0, 100% 100%, 38% 38%)"
+      "polygon(0 0, 0 0, 100% 100%, 40% 40%)"
     );
   });
   
@@ -116,7 +116,7 @@ $(document).ready(function (){
   $("#work7").mouseleave(function () {
     $("#work7-layout").css(
       "clipPath",
-      "polygon(0 0, 0 0, 100% 100%, 38% 38%)"
+      "polygon(0 0, 0 0, 100% 100%, 40% 40%)"
     );
   }); 
   
@@ -129,9 +129,9 @@ $(document).ready(function (){
   $("#work8").mouseleave(function () {
     $("#work8-layout").css(
       "clipPath",
-      "polygon(0 0, 0 0, 100% 100%, 38% 38%)"
+      "polygon(0 0, 0 0, 100% 100%, 40% 40%)"
     );
   });  
 
-
 });
+
