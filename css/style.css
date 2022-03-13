@@ -1,3 +1,7 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
 .first {
     background-position: center;
     background-image: url(../images/backgrounds/h_img.jpg);
@@ -5,4 +9,14 @@
 .third {
     background-position: center;
     background-image: url(../images/backgrounds/s_image.jpg);
+}
+.design-p, .dev-p, .product-p {
+  display: none;
+  max-height: 30vh;
+  width: 50vw;
+  margin: 3.5vw;
+}
+.column {
+    width: 70vw;
+    cursor: pointer;
 }
