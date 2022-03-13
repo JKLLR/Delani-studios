@@ -40,6 +40,97 @@ $(document).ready(function (){
       "clipPath",
       "polygon(0 0, 0 0, 100% 100%, 38% 38%)"
     );
+  });
+
+  $("#work2").mouseenter(function () {
+    $("#work2-layout").css(
+      "clipPath",
+      "polygon(0 0, 100% 0, 100% 100%, 0% 100%)"
+    );
+  });
+  $("#work2").mouseleave(function () {
+    $("#work2-layout").css(
+      "clipPath",
+      "polygon(0 0, 0 0, 100% 100%, 38% 38%)"
+    );
+  });
+  
+  $("#work3").mouseenter(function () {
+    $("#work3-layout").css(
+      "clipPath",
+      "polygon(0 0, 100% 0, 100% 100%, 0% 100%)"
+    );
+  });
+  $("#work3").mouseleave(function () {
+    $("#work3-layout").css(
+      "clipPath",
+      "polygon(0 0, 0 0, 100% 100%, 38% 38%)"
+    );
+  });
+  
+  $("#work4").mouseenter(function () {
+    $("#work4-layout").css(
+      "clipPath",
+      "polygon(0 0, 100% 0, 100% 100%, 0% 100%)"
+    );
+  });
+  $("#work4").mouseleave(function () {
+    $("#work4-layout").css(
+      "clipPath",
+      "polygon(0 0, 0 0, 100% 100%, 38% 38%)"
+    );
+  }); 
+  
+  $("#work5").mouseenter(function () {
+    $("#work5-layout").css(
+      "clipPath",
+      "polygon(0 0, 100% 0, 100% 100%, 0% 100%)"
+    );
+  });
+  $("#work5").mouseleave(function () {
+    $("#work5-layout").css(
+      "clipPath",
+      "polygon(0 0, 0 0, 100% 100%, 38% 38%)"
+    );
+  });
+  
+  $("#work6").mouseenter(function () {
+    $("#work6-layout").css(
+      "clipPath",
+      "polygon(0 0, 100% 0, 100% 100%, 0% 100%)"
+    );
+  });
+  $("#work6").mouseleave(function () {
+    $("#work6-layout").css(
+      "clipPath",
+      "polygon(0 0, 0 0, 100% 100%, 38% 38%)"
+    );
+  });
+  
+  $("#work7").mouseenter(function () {
+    $("#work7-layout").css(
+      "clipPath",
+      "polygon(0 0, 100% 0, 100% 100%, 0% 100%)"
+    );
+  });
+  $("#work7").mouseleave(function () {
+    $("#work7-layout").css(
+      "clipPath",
+      "polygon(0 0, 0 0, 100% 100%, 38% 38%)"
+    );
+  }); 
+  
+  $("#work8").mouseenter(function () {
+    $("#work8-layout").css(
+      "clipPath",
+      "polygon(0 0, 100% 0, 100% 100%, 0% 100%)"
+    );
+  });
+  $("#work8").mouseleave(function () {
+    $("#work8-layout").css(
+      "clipPath",
+      "polygon(0 0, 0 0, 100% 100%, 38% 38%)"
+    );
   });  
 
 

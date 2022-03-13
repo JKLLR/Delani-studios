@@ -27,3 +27,27 @@
     width: 70vw;
     cursor: pointer;
 }
+.work {
+    height: 35vh;
+    width: 20vw;
+    margin: 2vh 0;
+    position: relative;
+    cursor: pointer;
+  }
+  
+.work-layout {
+    width: 20vw;
+    height: 35vh;
+    background-color: orangered;
+    position: absolute;
+    margin: 2vh 0;
+    color: white;
+    z-index: 1;
+    transition: all 0.7s ease-in-out;
+    clip-path: polygon(0 0, 0 0, 100% 100%, 38% 38%);
+  }
+  
+  .inner-layout {
+    border: 5px solid white;
+    padding: 5%;
+  }
