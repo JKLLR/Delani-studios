@@ -142,7 +142,7 @@ $("#submit").click(function () {
     let email = $("input#email").val();
     let message = $("textarea#message").val();
     if (name && email !== null) {
-      alert ("Hey " + name + ", your message has been recieved and we will get back to you as soon as possible.");
+      alert ("Hey " + name + ", your message has been recieved and we will get back to you as soon as.");
   }
     else {
       alert("Please provide your correct name and email!")
