@@ -104,4 +104,36 @@
     border: 1px solid white;
     padding: 10px;
 }
+@media screen and (max-width: 992px) {
+    .work {
+        width: 42vw;
+        height: auto;
+    }
+    .work-layout {
+        width: 42vw;
+        height: 40vh;
+        background-color: transparent;
+        margin: 1vh 0;
+        color: aliceblue;
+        align-self: center;
+        margin-left: 17vw;
+        clip-path: polygon(0 0, 0 0, 100% 100%, 40% 40%);
+    }
+    .name {
+        align-items: center;
+        justify-content: center;
+        justify-content: space-between;
+        height: 25vh;
+    }
+    input {
+        width: 70vw;
+        margin: 0;
+    }
+    .sixth{
+        height: 100vh;
+    }
+    .first{
+        height: 70vh;
+    }
+}
 
