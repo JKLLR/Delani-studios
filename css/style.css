@@ -11,6 +11,9 @@
   width: 100vw;
   padding-top: 20vh;
 }
+.mouse{
+    padding-top: 20vh;
+}
 .third {
   background-position: center;
   background-image: url(../images/backgrounds/s_image.jpg);
@@ -86,3 +89,19 @@
     align-items: center;
     padding-bottom: 20px;
 }
+.row{
+    padding-bottom: 5vh;
+}
+.fullname{
+    width: 100%;
+    font-size: 20px;
+    border: 1px solid white;
+    padding: 10px;
+}
+.email{
+    width: 100%;
+    font-size: 20px;
+    border: 1px solid white;
+    padding: 10px;
+}
+
